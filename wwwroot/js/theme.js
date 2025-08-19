@@ -1,0 +1,1 @@
+(function(){const r=document.documentElement;if(localStorage.getItem("theme")==="dark")r.classList.add("dark");})();
